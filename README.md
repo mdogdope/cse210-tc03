@@ -5,5 +5,5 @@ I am a computer science major, with an emphasis in machine learning. I have been
 
 
 
-### Test Commit - Stockton Cannon
-Computer Science major, 2nd semester, from Shelley, Idaho
+### Stockton Cannon
+I'm a Computer Science major.  This is my 2nd semester, and I'm from Shelley, Idaho
